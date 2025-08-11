@@ -4,6 +4,10 @@
 This project is a **Code Execution & Data Analysis Agent** built in [Flowise AI](https://flowiseai.com/), powered by **Groq LLM**, **E2B Code Interpreter**, and **Memory Integration**. It can understand user queries, write Python code, execute it in a sandbox, and return results — making it ideal for **data analysis, visualization, and automation**.
 
 ---
+<img width="1366" height="616" alt="Image" src="https://github.com/user-attachments/assets/ee99f757-da31-4b06-b29b-83d62d01639a" />
+<img width="1366" height="609" alt="Image" src="https://github.com/user-attachments/assets/7ffa4f17-43ee-4aa3-a298-90ea6b6b61e8" />
+<img width="1366" height="628" alt="Image" src="https://github.com/user-attachments/assets/f6bb25e1-a2b3-4553-b9d1-0b3698688fdd" />
+<img width="1366" height="572" alt="Image" src="https://github.com/user-attachments/assets/d2254b3e-62a8-4ad4-bf80-0a7f1d72925f" />
 
 ## 📌 Features
 
